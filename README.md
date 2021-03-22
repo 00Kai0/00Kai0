@@ -1,4 +1,10 @@
-### Hi there 👋
+### Here is `Kerwin`. Chinese name is `Kaihui(凯辉)`
+
+I ❤ Open Source
+- 🔭 Currently working on `azure-sdk` and `azure-cli`.
+- ✨ A little familiar with webapp, dev-tools & library design in python/ruby.
+- ✨ Programming language design is also my favorite.
+- ✨ Like to write blogs about technology or something. website: https://00kai0.github.io/.
 
 <!--
 **00Kai0/00Kai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=00Kai0&show_icons=true&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=00Kai0&hide=html,css&layout=compact&langs_count=9)
