@@ -2,9 +2,9 @@
 
 I ❤ Open Source
 - 🔭 Currently working on `azure-sdk` and `azure-cli`.
-- ✨ A little familiar with webapp, dev-tools & library design in python/ruby.
+- ✨ A little familiar with webapp, dev-tools & library design in Python/Ruby.
 - ✨ Programming language design is also my favorite.
-- ✨ Like to write blogs about technology or something. website: https://00kai0.github.io/.
+- ✨ Like to write blogs about technology or something. Website: https://00kai0.github.io/.
 
 <!--
 **00Kai0/00Kai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
