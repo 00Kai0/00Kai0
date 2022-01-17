@@ -1,7 +1,11 @@
 ### Here is `Kerwin`. Chinese name is `Kaihui(凯辉)`
 
+Now I am a developer at Recreate Game, we are creating a great game \<<b>Party Animals<b>\>.
+
+If you also like this game, plz [add to your wishlist](https://store.steampowered.com/app/1260320/Party_Animals/) ;).
+
 I ❤ Open Source
-- 🔭 Currently working on server side and infrastructure of <Party Animals> game.
+- 🔭 Currently working on server side and infrastructure of \<Party Animals\> game.
 - ✨ A little familiar with webapp, dev-tools & library design in Python/Ruby.
 - ✨ Programming language design is also my favorite.
 - ✨ Like to write blogs about technology or something. Website: https://00kai0.github.io/.
